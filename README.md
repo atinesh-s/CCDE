@@ -15,4 +15,4 @@ main.m
 ```
 
 ## References
-[[1]  Mitchell A. Potter and Kenneth A. De Jong. A cooperative coevolutionary approach to function optimization, pages 249–257. Springer Berlin Heidelberg, Berlin,  Heidelberg, 1994. link to paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.2706&rep=rep1&type=pdf)
+[[1]  Mitchell A. Potter and Kenneth A. De Jong. A cooperative coevolutionary approach to function optimization, pages 249–257. Springer Berlin Heidelberg, Berlin,  Heidelberg, 1994](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.2706&rep=rep1&type=pdf)
